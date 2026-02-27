@@ -1,5 +1,18 @@
-https://www.bcit.ca/courses/dqm-with-python-babi-4005/
-## I use this one as my URLS 
+The course information used in this project was collected directly from official BCIT web pages. These pages were scraped for educational purposes as part of this assignment.
 
-https://chatgpt.com/
-## I use this AI to supoort and fixing error for me. 
+BCIT Course Page:
+British Columbia Institute of Technology. (2026). BABI 4005 – DQM with Python.
+from https://www.bcit.ca/courses/dqm-with-python-babi-4005/
+
+BCIT Course Outline:
+British Columbia Institute of Technology. (2026). Course Outline 92135.
+from https://www.bcit.ca/outlines/20261092135/
+
+These sources provided the raw HTML content that was parsed and transformed into structured data.
+
+AI Assistance
+
+ChatGPT (OpenAI) was used as a coding assistant to help structure the scraping pipeline, improve code organization, and debug errors during development.
+
+OpenAI. (2024). ChatGPT (GPT-4). https://openai.com/
+
